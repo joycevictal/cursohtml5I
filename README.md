@@ -1,6 +1,6 @@
 # HTML5 & CSS3
 
-Atividades desenvolvidas no curso de HTLM5 & CSS3 do Alura.
+Projeto do curso do Alura sobre HTML5 e CSS3.
 
 **Objetivos :** 
 
